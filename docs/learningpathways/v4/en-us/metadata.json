@@ -61,51 +61,6 @@
           "SubjectId": "",
           "Source": "MDU Construction Services Group",
           "SubCategories": []
-        },
-        {
-          "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Work remotely",
-          "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
-          "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-          "Name": "Hybrid workplace",
-          "Image": "images/categories/hybridwork.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
-          "Name": "Accessibility",
-          "Image": "images/categories/accessibility.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "a7f1ca95-e0eb-4715-b846-89fc8d2afa56",
-          "Name": "Collaboration",
-          "Image": "images/categories/Collaboration_Category.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
         }
       ]
     },
@@ -185,15 +140,6 @@
           "Name": "Microsoft Teams",
           "Image": "images/categories/teams.png",
           "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "e83da7d3-653c-4c01-a262-336e07b88aba",
-          "Name": "Yammer",
-          "Image": "images/categories/yammer.png",
-          "TechnologyId": "b8074cb4-dcd4-40ca-a6c1-17472b09e85e",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
